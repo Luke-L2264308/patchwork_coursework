@@ -35,7 +35,7 @@
 - No additional config files are required.
 
 **Project Structure and Technologies Used**
-- `coursework1 complete.py`: Main program — handles user input, pattern generation, window creation, and user interactions.
+- `coursework1_complete.py`: Main program — handles user input, pattern generation, window creation, and user interactions.
 - `graphix.py`: The graphics module used for this program (to be clear, this aspect of the program was not made by me but it seemed easier to include it for ease of testing in this upload)
 - Language: Python 3
 - Development tools: any text editor or IDE, Python interpreter, and PowerShell (on Windows) for running the program.
