@@ -27,7 +27,7 @@
     - `7`, `8`, `9` : Fill the selected patch with a plain filled square.
     - Arrow keys (`Up`, `Down`, `Left`, `Right`) : Move the selected patch into an adjacent empty patch (if available).
     - `Escape` : Deselect the currently selected patch.
-  - Colour mapping: the numeric keys map to the three chosen colours in a cyclic manner; the script also uses quadrant logic to choose default colours when appropriate.
+  - Colour mapping: the numeric keys map to the three chosen colours in a cyclic manner; 
 
 **Configuration and Options**
 - Acceptable canvas sizes: `5`, `7`, `9`.
