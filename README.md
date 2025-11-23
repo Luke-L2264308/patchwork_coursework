@@ -11,7 +11,7 @@
   - `cd patchwork_coursework`
 - **Run the project:**
   - From the project folder, run:
-    - `python "coursework1 complete.py"`
+    - `python "coursework1_complete.py"`
   - The program will prompt for a canvas size and three colours, then open the interactive window.
 
 **Usage Instructions**
